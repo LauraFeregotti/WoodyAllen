@@ -1,0 +1,22 @@
+
+@font-face 
+{
+    font-family: "Goldoni";
+    src: url(../fonts/GOLDONI_DEMO.OTF) format("opentype");
+  
+}
+
+
+html, body {
+ margin: 0px;
+ padding: 0px;
+ border: 0px;
+ }
+
+body 
+{ 
+    
+  
+    font-family: "Goldoni", Verdana, Tahoma !important;
+        color:black;
+}
